@@ -12,16 +12,14 @@ abstract class Styles {
 
 
     fontSize: 15,
-     // color: Colors.white,
 
 
   ) ;
   static TextStyle textStyle18= GoogleFonts.arefRuqaaInk(
 
+      fontSize: 25
 
-
-     // color: Colors.white,
-      fontSize: 18,
+    ,
       fontWeight: FontWeight.w500,
 
   );
